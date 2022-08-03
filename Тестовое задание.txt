@@ -82,5 +82,9 @@ BugRep1
 Фактический результат: добавлено 6 молотков после оплаты.
 Ожидаемый результат: добавлено 3 молотка после оплаты.
 Дополнительная информация: видео
-
+Задание 4
+Ссылка на репозиторий: https://github.com/AnastasiaShirshovaQA/RedBarkTest.git
+Выполнила: Ширшова Анастасия.
+Потрачено чистого времени: 5 часов.
+Ссылка на google document https://docs.google.com/document/d/1_H7vGqlQFaGAORfJhI3CS5UlUk8LLqKTWow_pwRiyC8/edit?usp=sharing
 
