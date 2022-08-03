@@ -86,5 +86,5 @@ BugRep1
 Ссылка на репозиторий: https://github.com/AnastasiaShirshovaQA/RedBarkTest.git
 Выполнила: Ширшова Анастасия.
 Потрачено чистого времени: 5 часов.
-
+Ссылка на google document https://docs.google.com/document/d/1_H7vGqlQFaGAORfJhI3CS5UlUk8LLqKTWow_pwRiyC8/edit?usp=sharing
 
